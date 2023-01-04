@@ -33,17 +33,17 @@ Integrantes:
 
 3.4 Desconecte el resistor R5 y mida el voltaje en el circuito abierto.
 
-
+![image](https://user-images.githubusercontent.com/117045943/210659128-13f08ad1-cc20-41ab-9576-1bf99d32788a.png)
 
 3.5 Anule el efecto de las fuentes de alimentación. Desconecte R5 y desde el circuito
 abierto resultante mida la resistencia equivalente.
 
-
+![image](https://user-images.githubusercontent.com/117045943/210659863-817e919a-028b-4418-b5a5-563c707df8da.png)
 
 3.6 Implemente el circuito equivalente de Thévenin, agregue el resistor R5 y mida la
 corriente y el voltaje en el mismo
 
-
+![image](https://user-images.githubusercontent.com/117045943/210660703-2c9dd1cf-a057-4321-a96a-8c5d4b0adba9.png)
 
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
