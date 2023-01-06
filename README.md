@@ -9,7 +9,9 @@ Integrantes:
 
 1. OBJETIVOS
 
-
+- Definir el Teorema de Thevenin
+- Aplicar el Teorema de Thevenin al circuito presentado.
+- Reconocer como ayuda este Teorema al análisis de circuitos
 
 2. MARCO TEÓRICO
 
@@ -108,11 +110,12 @@ corriente y el voltaje en el mismo
 
 5. VIDEO
 
-
+https://drive.google.com/file/d/1JVDtcWO2Zxs532KbZcoJ3sblLh5Oz7GI/view?usp=sharing
 
 6. CONCLUSIONES
 
-
+- El Theorema de Thevenin en un teorema que nos permite facilitar el análisis de circuitos ya que permite que este se simplifique.
+- Para aplicar el teorema es importante conocer definiciones como Ley de Ohm, LVK y LCK.
 
 7. BIBLIOGRAFÍA
 
